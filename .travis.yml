@@ -10,10 +10,12 @@ notifications:
     on_success: change
     on_failure: always
 
+# command to install dependencies
 install:
   - npm install -g gitbook-cli
   - gitbook install
 
+# command to run tests
 script:
   - gitbook build
 
@@ -26,6 +28,7 @@ after_script:
   - git push --force --quiet "https://${TOKEN}@${REF}" master:gh-pages
 
 branches:
+# safelist
   only:
     - master
 
