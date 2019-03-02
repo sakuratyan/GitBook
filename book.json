@@ -55,8 +55,6 @@
       "ignore": [
         "mermaid",
         "eval-js"
-      ],
-      "css": [
       ]
     },
     "page-footer-ex": {
