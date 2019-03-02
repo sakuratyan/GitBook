@@ -55,6 +55,9 @@
       "ignore": [
         "mermaid",
         "eval-js"
+      ],
+      "css": [
+        "prism-themes/themes/prism-duotone-dark.css"
       ]
     },
     "page-footer-ex": {
