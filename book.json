@@ -14,7 +14,7 @@
     "prism",
     "bibtex-indexed-cite",
     "anchor-navigation-ex",
-    "page-footer-ex",
+    "-page-footer-ex",
     "splitter",
     "todo",
     "copy-code-button",
