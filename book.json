@@ -7,7 +7,7 @@
     "search-pro",
     "-sharing",
     "disqus",
-    "github-buttons",
+    "-github-buttons",
     "-editlink",
     "ga",
     "-highlight",
@@ -30,7 +30,7 @@
       "showLevel": false
     },
     "disqus": {
-      "shortName": "gitbook-template"
+      "shortName": "disqus in GitBook"
     },
     "github-buttons": {
       "buttons": [{
@@ -42,7 +42,7 @@
       }]
     },
     "editlink": {
-      "base": "https://github.com/riskers/gitbook-template/blob/master",
+      "base": "https://github.com/sakuratyan/GitBook",
       "label": "Edit",
       "multilingual": false
     },
