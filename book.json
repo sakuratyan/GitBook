@@ -12,7 +12,8 @@
     "ga",
     "-highlight",
     "prism",
-    "prism-themes",
+    "prism-ASH",
+    "-prism-themes",
     "bibtex-indexed-cite",
     "anchor-navigation-ex",
     "-page-footer-ex",
@@ -56,7 +57,7 @@
         "eval-js"
       ],
       "css": [
-        "prism-themes/themes/prism-duotone-dark.css"
+        "syntax-highlighting/assets/css/prism/prism-base16-google.light.css"
       ]
     },
     "page-footer-ex": {
