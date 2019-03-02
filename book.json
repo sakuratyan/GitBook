@@ -57,7 +57,7 @@
         "eval-js"
       ],
       "css": [
-        "prism-themes/themes/prism-duotone-dark.css"
+        "prism-themes/themes/prism-duotone-light.css"
       ]
     },
     "page-footer-ex": {
