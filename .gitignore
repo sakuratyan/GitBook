@@ -1,7 +1,8 @@
 /node_modules/*/*
 
-#坑爹的语法
-!node_modules/prism-themes/themes/
+#坑爹的语法 
+# 现在不需要
+# !node_modules/prism-themes/themes/
 
 
 _book

@@ -13,3 +13,7 @@
 ## JavaScript
 
 * [闭包是什么](./JavaScript/bi-bao.md)
+
+## Test
+
+* [testPrism](./Test/js.md)

@@ -12,7 +12,7 @@
 
 ## 事例
 
-```JavaScript
+```js
 function add() {
     var i = 0
     arr = [];
@@ -29,7 +29,7 @@ temp[0]();  //取第一个函数值:10
 
 也可以稍微改变一下使arr数组存放数值,而不是函数.
 
-```JavaScript
+```js
 function add() {
     var i = 0
     arr = [];
